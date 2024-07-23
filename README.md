@@ -12,20 +12,11 @@
 
 ## 시작하기
 
-이 프로젝트를 로컬 환경에서 실행하기 위해서는 다음 단계를 따르십시오.
-
-### 필수 조건
-
-- Python 3.8 이상
-- 스트림릿 (Streamlit)
-- Gemini API 키
-
 ### 설치
 
-1. 이 리포지토리를 클론합니다:
+1. 모듈 설치:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   pip install -r requirements.txt
 
 
 ### 모듈 설치한거 정리(임시)
